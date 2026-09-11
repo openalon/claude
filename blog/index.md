@@ -10,4 +10,4 @@ title: Claude Blog 精选
 
 ## 文章
 
-后续精选文章会出现在这里。
+- [AI 原生 SDLC 实践手册](/blog/the-ai-native-sdlc-playbook) — Claude Blog 对 AI 原生软件开发生命周期的阶段、工件与治理机制的系统梳理。
