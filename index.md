@@ -23,5 +23,5 @@ features:
 ## 从这里开始
 
 - [Claude Blog 精选](/blog/)：适合了解产品、Agents、Claude Code 和企业 AI 的最新动态。
-- [Claude Academy 学习路线](/academy/)：适合按主题学习官方课程和教程。
+- [Claude Academy 学习](/academy/)：适合按主题学习官方课程和教程。
 - [关于这个专栏](/about)：了解来源、更新和内容边界。
