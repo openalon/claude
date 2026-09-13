@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "description": "Claude 中文学习专栏：官方精选、学习路线与实践记录",
+  "description": "Claude 学习专栏：官方精选、学习路线与实践记录",
   "scripts": {
     "docs:dev": "vitepress dev",
     "docs:build": "vitepress build",

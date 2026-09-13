@@ -1,6 +1,6 @@
-# Claude 中文学习专栏
+# Claude 学习专栏
 
-这是一个个人维护的非官方 Claude 中文学习专栏，包含两个内容入口：
+这是一个个人维护的非官方 Claude 学习专栏，包含两个内容入口：
 
 - `ingest-claude-blog`：Claude Blog 精选中文解读
 - `ingest-claude-academy`：Claude Academy 与官方 tutorial 学习笔记

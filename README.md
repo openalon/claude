@@ -1,4 +1,4 @@
-# Claude 中文学习专栏
+# Claude 学习专栏
 
 这是一个使用 VitePress 构建的个人 Claude 学习专栏，包含两个栏目：
 

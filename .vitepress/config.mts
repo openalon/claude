@@ -7,7 +7,7 @@ const base = isGithubActions && repoName ? `/${repoName}/` : '/'
 
 export default defineConfig({
   lang: 'zh-CN',
-  title: 'Claude 中文学习专栏',
+  title: 'Claude 学习专栏',
   description: '精选 Claude 官方内容，记录中文学习路线与实践。',
   base,
   cleanUrls: true,

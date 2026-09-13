@@ -1,8 +1,8 @@
 ---
-title: Claude 中文学习专栏
+title: Claude 学习专栏
 layout: home
 hero:
-  name: Claude 中文学习专栏
+  name: Claude 学习专栏
   tagline: Blog 文章、Academy 课程与实践笔记。
   actions:
     - theme: brand
